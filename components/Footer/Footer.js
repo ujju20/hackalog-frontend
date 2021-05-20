@@ -14,7 +14,7 @@ export default function Footer() {
                         >
                             &copy;{new Date().getFullYear()}
                             {"  "}
-                            <a href="https://copsiitbhu.co.in/" target="_blank">
+                            <a href="https://copsiitbhu.co.in/" target="_blank" rel="noopener noreferrer">
                                 COPS
                             </a>
                         </Text>
